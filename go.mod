@@ -25,8 +25,8 @@ require (
 	github.com/smartystreets/assertions v0.0.0-20190528192650-f487f9de1cd3 // indirect
 	github.com/smartystreets/goconvey v0.0.0-20190528192650-68dc04aab96a
 	github.com/urfave/cli v1.20.0
-	golang.org/x/crypto v0.0.0-20190528192650-22d7a77e9e5f
-	golang.org/x/sys v0.0.0-20190528192650-3626398d7749 // indirect
-	google.golang.org/appengine v1.6.0 // indirect
+	golang.org/x/crypto v0.0.0-20190607002855-f99c8df09eb5
+	golang.org/x/sys v0.0.0-20190607002855-7fc4e5ec1444 // indirect
+	google.golang.org/appengine v1.6.1 // indirect
 	gopkg.in/gormigrate.v1 v1.5.0
 )
